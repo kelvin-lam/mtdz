@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes>
+    <route>
+        <id>1</id>
+        <title>
+            普林斯顿大学
+        </title>
+        <description>
+
+        </description>
+        <pics>
+            <pic></pic>
+        </pics>
+        <price>
+            $300
+        </price>
+        <reviews>
+            <point>8</point>
+            <review>
+                <point>10</point>
+                <comment></comment>
+            </review>
+            <review>
+                <point>9</point>
+                <comment></comment>
+            </review>
+        </reviews>
+        <startLocation></startLocation>
+        <destination></destination>
+        <schedules>
+            <schedule>
+                <day>
+                    <index>1</index>
+                    <pic></pic>
+                    <title></title>
+                    <description></description>
+                    <features>
+
+                    </features>
+                </day>
+            </schedule>
+        </schedules>
+    </route>
+</routes>
