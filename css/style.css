@@ -10150,3 +10150,4 @@ button.ui-button::-moz-focus-inner {
 .clear {clear:both}
 .cooperate a{ float:left; margin:0px 3px 8px 3px; width:160px; overflow:hidden}
 .cooperate a img{ border:1px solid #eee; }
+.cooperate img{margin-right:30px;}
