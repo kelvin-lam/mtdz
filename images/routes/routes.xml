@@ -57,81 +57,81 @@
             <pic>images/routes/136323524010815629407721414654376.jpg</pic>
         </pics>
         <price>
-            $140
+            $289
         </price>
         <reviews>
-            <point>80%</point>
-            <count>2</count>
+            <guide>100%</guide>
+            <tour>90%</tour>
+            <hotel>80%</hotel>
+            <point>90%</point>
+            <count>3</count>
             <review>
-                <point>10</point>
-                <comment></comment>
+                <point>90%</point>
+                <name>游客</name>
+                <time>2014-07-17 05:14:09</time>
+                <comment>一个周末 没有过多准备就投入了黄石的怀抱 轻松 自在 美极了的风景 好极了的心情</comment>
             </review>
             <review>
-                <point>9</point>
-                <comment></comment>
+                <point>100%</point>
+                <name>游客</name>
+                <time>2014-07-03 05:04:26</time>
+                <comment>景色不错，导游很热情。酒店干净舒适。赞一个。</comment>
+            </review>
+            <review>
+                <point>80%</point>
+                <name>游客</name>
+                <time>2014-06-26 04:50:16</time>
+                <comment>行程很喜欢，主要是来看黄石公园的，两天的时间很充裕，黄石公园很赞，完全Surprise!</comment>
             </review>
         </reviews>
-        <startLocation></startLocation>
-        <destination></destination>
-        <schedules>
-            <schedule>
-                <day>
-                    <index>1</index>
-                    <pic></pic>
-                    <title></title>
-                    <description></description>
-                    <features>
-
-                    </features>
-                </day>
-            </schedule>
-        </schedules>
     </route>
 
     <route id="2">
         <title>
-            美西经典 旧金山 丹麦村 圣塔芭芭拉 17里湾 赏心悦目之旅
+            [美西经典 旧金山 丹麦村 圣塔芭芭拉 17里湾 赏心悦目之旅] 4 天 3 夜
         </title>
         <description>
             &lt;h2&gt;行程特色&lt;/h2&gt;
             &lt;p&gt;
-            * 穿越河谷 走进自然 可爱的野生动物带给你纯真乐趣&lt;br/&gt;
-            * 峡谷清秀 喷泉涌动 古老神秘的黄石公园等你去发现&lt;br/&gt;
-            * 你的假期也许不长 但胜在品质够优良&lt;br/&gt;
-            * 一起来吧！就让JoyTravel满足你对美好假期的全部渴望！&lt;br/&gt;
-            * 导游：5~20年以上带团经验，最优秀的资深导游；&lt;br/&gt;
-            * 司机：至少10年以上安全驾驶经验；&lt;br/&gt;
-            * 大巴：全程豪华欧洲旅游大巴接待，黄色巴士（限时）提供免费WI-FI服务；&lt;br/&gt;
-            * 行程：安排最合理，车程短，不走回头路；&lt;br/&gt;
-            * 餐饮：提供特价自助餐，特价$14.99/$10.99(小孩5-10岁），买一送一，价格含税、小费、饮料，即客人付$14.99，便可享受往返共2餐自助餐！&lt;br/&gt;
+            一人成行！天天出发！买二送一！&lt;br/&gt;
+            全程豪华欧洲旅游大巴接待，每辆巴士均提供免费WIFI服务（限时）及充电服务！&lt;br/&gt;
+            我们将带你穿越“美国的蔚蓝海岸"-圣塔芭芭拉，领略南加州风情、悠游纯美俏丽小城-丹麦村，感受北欧的浪漫、畅游旧金山欣赏充满趣味的渔人码头，漫步难以置信的建筑奇迹-金门大桥；&lt;br/&gt;
+            全程选用优质酒店，每晚让你睡出好梦；&lt;br/&gt;
+            经验丰富的导游将提供专业解说，为你讲述美景背后的动人故事；&lt;br/&gt;
+            新型豪华空调巴士给你舒适的乘坐体验；&lt;br/&gt;
+            ☆JoyTravel☆诚意奉献 美西经典线路 完美您的假日时光！&lt;br/&gt;
             &lt;/p&gt;
-            &lt;h2&gt;第1天 原居地 - 盐湖城&lt;/h2&gt;
+
+            &lt;h2&gt;第1天 洛杉矶接机&lt;/h2&gt;
             &lt;p&gt;
-            乘坐飞机前往犹他州首府盐湖城，并自行乘坐酒店免费班车去酒店入住（请与酒店前台人员确认乘坐班车地点）。&lt;br/&gt;
-            *请在出团前一天确认导游电话，盐湖城参团的客人到达后请自行乘坐Comfort Inn Salt Lake City Airport 免费专车前往酒店。&lt;br/&gt;
-            住宿： Comfort Inn Airport, Salt Lake City&lt;br/&gt;
+            洛杉矶机场接机地点：&lt;br/&gt;
+            Terminal 1：1号行李领取处旁Hudson News便利店；&lt;br/&gt;
+            Terminal 2：2号行李领取处；&lt;br/&gt;
+            Terminal 3：A号行李领取处；&lt;br/&gt;
+            Terminal 4：星巴克咖啡（Starbucks）；&lt;br/&gt;
+            Terminal 5：3号行李领取处；&lt;br/&gt;
+            Terminal 6：资讯台及ATM机（Information and ATM）；&lt;br/&gt;
+            Terminal 7/8：1号行李领取处。&lt;br/&gt;
+            国际航班：请在国际航站楼（Terminal B）左侧Relay便利店等候。&lt;br/&gt;
+            免费接机时间： (08:30~22:30，每1个小时一班) 08:30 / 09:30 / 10:30 / 11:30 / 12:30 / 13:30 / 14:30 / 15:30 / 16:30 / 17:30 / 18:30 / 19:30 / 20:30 / 21:30 / 22:30&lt;br/&gt;
+            住宿：Howard Johnson Fullerton 或同级&lt;br/&gt;
             交通：豪华空调巴士&lt;br/&gt;
             &lt;/p&gt;
-            &lt;h2&gt;第2天 盐湖城-杰克逊小镇-大提顿国家公园-黄石国家公园&lt;/h2&gt;
+            &lt;h2&gt;第2天 洛杉矶-圣塔芭芭拉-丹麦村-旧金山&lt;/h2&gt;
             &lt;p&gt;
-            早晨前往黄石公园，途经著名牛仔州——怀俄明州。一路上可见辽阔的草原、悠闲的牛、羊群。&lt;br/&gt;
-            在用过了充满西部风味的杰克逊午餐后，沿著蛇河河谷进入大提顿国家公园。高耸入云的山峰覆盖着千年的冰河，犹如进入人间仙境。&lt;br/&gt;
-            晚些时候进入黄石公园，沿途可发现成群的美洲水牛及麋鹿好像在等着游客为它们拍照，就像进入了野生动物园。&lt;br/&gt;
-            夜宿黄石公园。&lt;br/&gt;
-            住宿： 黄石小木屋或西黄石&lt;br/&gt;
+            上午从洛杉矶出发，沿着太平洋海岸线一路欣赏风景，前往被誉为“美国的蔚蓝海岸”的圣塔芭芭拉。这里的建筑物采用了早期西班牙殖民时期风格，并于现代建筑学融合，使它拥有一种休闲优雅的风格，是能让游客体验南加州风情的最好去处之一。接下来前往丹麦村，欣赏古老的风车，北欧式的建筑物。在街上可以享用闻名于世的丹麦饼干、欧式风格的香醇咖啡，让参观的旅客有种在欧洲小村的错觉。用完餐后将北上前往硅谷，参观世界知名科技公司的总部，于傍晚时分抵达旧金山。
+            住宿：Courtyard Marriott Hotel 或同级&lt;br/&gt;
             交通：豪华空调巴士&lt;br/&gt;
             &lt;/p&gt;
-            &lt;h2&gt;第3天 黄石国家公园-大提顿国家公园-杰克森-盐湖城&lt;/h2&gt;
+            &lt;h2&gt;第3天 斯坦福大学-旧金山市区游&lt;/h2&gt;
             &lt;p&gt;
-            上午游览黄石公园，浪漫的黄石湖、宏伟秀丽的黄石峡谷、万马奔腾的黄石瀑布、奇妙的老忠实喷泉、神秘的巨象温泉都分布在这古老的火山高原及全美最大的野生动物保护区里，黑熊、灰熊、高角鹿和多种稀有水鸟也以此为家。&lt;br/&gt;
-            夜宿盐湖城。&lt;br/&gt;
-            住宿： Ramada Limited, Salt Lake City 或同级&lt;br/&gt;
+            上午前往斯坦福大学参观。然后驱车前往三面环海、由50多个山丘组成的旧金山市。随后参观美国西岸的标志性桥梁，被称为“不可能的大桥”的金门大桥；游览最热闹的渔人码头，更可乘坐游船欣赏旧金山海湾；1915年巴拿马政府赠予的世界博览会遗址罗马艺术宫；以及著名的九曲花街，都让您流连忘返。尤其是旧金山高低起伏的地形，配合维多利亚式的古典建筑，加上凉爽舒适的海风，构成了吸引成千上万观光客拜访这个城市的主要原因。&lt;br/&gt;
+            住宿：Courtyard Marriott Hotel或同级&lt;br/&gt;
             交通：豪华空调巴士&lt;br/&gt;
             &lt;/p&gt;
-            &lt;h2&gt;第4天 盐湖城 - 家园&lt;/h2&gt;
+            &lt;h2&gt;第4天 17里湾-洛杉矶&lt;/h2&gt;
             &lt;p&gt;
-            上午参观摩门教大教堂、犹他州政府大厦。午后乘机返回家园，结束让您毕生难忘的黄石假期。&lt;br/&gt;
-            *请安排12:00PM后的航班离开盐湖城（SLC），不含送机，可乘坐酒店免费班车去机场。&lt;br/&gt;
+            早上7:00从酒店出发，前往如诗如画的蒙特利半岛。轻柔的海风、蜿蜓的海岸、澎湃的浪花、奇形的礁石、还有可爱的海狗海狮徜徉其间；亿万富豪的别墅美伦美奂（闻名中外的国画大师张大千曾于此居住十年），世界顶级的高尔夫球场绵延不止（停留拍照，举办过5次大满贯）… 17里（门票已含）的海景令人心旷神怡。世界闻名的加州1号公路（途经）、蜜月圣地情侣角（停留拍照）、17里的绝美海景…接踵而来的惊喜让人不禁沉醉于海风、海浪声与蒙特利半岛的诗情画意中。世界闻名的蒙特利水族馆（门票$40自费，1小时20分钟）建于海边，是每个来蒙特利半岛的游客都必去的一个地方。馆内有6500种海洋生物，各式各样色彩鲜艳的鱼类，长得千奇百怪的海底生物，更有在水族馆海滨礁石旁自由自在飞翔的海鸥。傍晚返回洛杉矶。&lt;br/&gt;
             交通：豪华空调巴士&lt;br/&gt;
             &lt;/p&gt;
         </description>
@@ -139,207 +139,33 @@
             images/routes/13995373918782531707262065254731.jpg
         </profile>
         <pics>
-            <pic></pic>
+            <pic>images/routes/13995377230615273813361971084924.jpg</pic>
+            <pic>images/routes/13995373918782531707262065254731.jpg</pic>
+            <pic>images/routes/13995377598852192783612103399625.jpg</pic>
+            <pic>images/routes/1413784368047325503041260949539.jpg</pic>
         </pics>
         <price>
-            $300
+            $156
         </price>
         <reviews>
-            <point>90%</point>
-            <count>15</count>
+            <guide>100%</guide>
+            <tour>100%</tour>
+            <hotel>100%</hotel>
+            <point>100%</point>
+            <count>2</count>
             <review>
-                <point>10</point>
-                <comment></comment>
+                <point>100%</point>
+                <name>游客</name>
+                <time>2015-01-06 01:04:24</time>
+                <comment>我们入住的酒店干干净净的 食物也美美的 一切都很满意!</comment>
             </review>
             <review>
-                <point>9</point>
-                <comment></comment>
-            </review>
-        </reviews>
-        <startLocation></startLocation>
-        <destination></destination>
-        <schedules>
-            <schedule>
-                <day>
-                    <index>1</index>
-                    <pic></pic>
-                    <title></title>
-                    <description></description>
-                    <features>
-
-                    </features>
-                </day>
-            </schedule>
-        </schedules>
-    </route>
-
-    <route id="3">
-        <title>
-            美西经典 旧金山 丹麦村 圣塔芭芭拉 17里湾 赏心悦目之旅
-        </title>
-        <description>
-            &lt;h2&gt;行程特色&lt;/h2&gt;
-            &lt;p&gt;
-            * 穿越河谷 走进自然 可爱的野生动物带给你纯真乐趣&lt;br/&gt;
-            * 峡谷清秀 喷泉涌动 古老神秘的黄石公园等你去发现&lt;br/&gt;
-            * 你的假期也许不长 但胜在品质够优良&lt;br/&gt;
-            * 一起来吧！就让JoyTravel满足你对美好假期的全部渴望！&lt;br/&gt;
-            * 导游：5~20年以上带团经验，最优秀的资深导游；&lt;br/&gt;
-            * 司机：至少10年以上安全驾驶经验；&lt;br/&gt;
-            * 大巴：全程豪华欧洲旅游大巴接待，黄色巴士（限时）提供免费WI-FI服务；&lt;br/&gt;
-            * 行程：安排最合理，车程短，不走回头路；&lt;br/&gt;
-            * 餐饮：提供特价自助餐，特价$14.99/$10.99(小孩5-10岁），买一送一，价格含税、小费、饮料，即客人付$14.99，便可享受往返共2餐自助餐！&lt;br/&gt;
-            &lt;/p&gt;
-            &lt;h2&gt;第1天 原居地 - 盐湖城&lt;/h2&gt;
-            &lt;p&gt;
-            乘坐飞机前往犹他州首府盐湖城，并自行乘坐酒店免费班车去酒店入住（请与酒店前台人员确认乘坐班车地点）。&lt;br/&gt;
-            *请在出团前一天确认导游电话，盐湖城参团的客人到达后请自行乘坐Comfort Inn Salt Lake City Airport 免费专车前往酒店。&lt;br/&gt;
-            住宿： Comfort Inn Airport, Salt Lake City&lt;br/&gt;
-            交通：豪华空调巴士&lt;br/&gt;
-            &lt;/p&gt;
-            &lt;h2&gt;第2天 盐湖城-杰克逊小镇-大提顿国家公园-黄石国家公园&lt;/h2&gt;
-            &lt;p&gt;
-            早晨前往黄石公园，途经著名牛仔州——怀俄明州。一路上可见辽阔的草原、悠闲的牛、羊群。&lt;br/&gt;
-            在用过了充满西部风味的杰克逊午餐后，沿著蛇河河谷进入大提顿国家公园。高耸入云的山峰覆盖着千年的冰河，犹如进入人间仙境。&lt;br/&gt;
-            晚些时候进入黄石公园，沿途可发现成群的美洲水牛及麋鹿好像在等着游客为它们拍照，就像进入了野生动物园。&lt;br/&gt;
-            夜宿黄石公园。&lt;br/&gt;
-            住宿： 黄石小木屋或西黄石&lt;br/&gt;
-            交通：豪华空调巴士&lt;br/&gt;
-            &lt;/p&gt;
-            &lt;h2&gt;第3天 黄石国家公园-大提顿国家公园-杰克森-盐湖城&lt;/h2&gt;
-            &lt;p&gt;
-            上午游览黄石公园，浪漫的黄石湖、宏伟秀丽的黄石峡谷、万马奔腾的黄石瀑布、奇妙的老忠实喷泉、神秘的巨象温泉都分布在这古老的火山高原及全美最大的野生动物保护区里，黑熊、灰熊、高角鹿和多种稀有水鸟也以此为家。&lt;br/&gt;
-            夜宿盐湖城。&lt;br/&gt;
-            住宿： Ramada Limited, Salt Lake City 或同级&lt;br/&gt;
-            交通：豪华空调巴士&lt;br/&gt;
-            &lt;/p&gt;
-            &lt;h2&gt;第4天 盐湖城 - 家园&lt;/h2&gt;
-            &lt;p&gt;
-            上午参观摩门教大教堂、犹他州政府大厦。午后乘机返回家园，结束让您毕生难忘的黄石假期。&lt;br/&gt;
-            *请安排12:00PM后的航班离开盐湖城（SLC），不含送机，可乘坐酒店免费班车去机场。&lt;br/&gt;
-            交通：豪华空调巴士&lt;br/&gt;
-            &lt;/p&gt;
-        </description>
-        <profile>
-            images/routes/13995373918782531707262065254731.jpg
-        </profile>
-        <pics>
-            <pic></pic>
-        </pics>
-        <price>
-            $300
-        </price>
-        <reviews>
-            <point>90%</point>
-            <count>15</count>
-            <review>
-                <point>10</point>
-                <comment></comment>
-            </review>
-            <review>
-                <point>9</point>
-                <comment></comment>
+                <point>100%</point>
+                <name>游客</name>
+                <time>2014-12-23 20:38:22</time>
+                <comment>跟团出游最重要的就是导游，这次非常成功!</comment>
             </review>
         </reviews>
-        <startLocation></startLocation>
-        <destination></destination>
-        <schedules>
-            <schedule>
-                <day>
-                    <index>1</index>
-                    <pic></pic>
-                    <title></title>
-                    <description></description>
-                    <features>
-
-                    </features>
-                </day>
-            </schedule>
-        </schedules>
     </route>
 
-    <route id="4">
-        <title>
-            美西经典 旧金山 丹麦村 圣塔芭芭拉 17里湾 赏心悦目之旅
-        </title>
-        <description>
-            &lt;h2&gt;行程特色&lt;/h2&gt;
-            &lt;p&gt;
-            * 穿越河谷 走进自然 可爱的野生动物带给你纯真乐趣&lt;br/&gt;
-            * 峡谷清秀 喷泉涌动 古老神秘的黄石公园等你去发现&lt;br/&gt;
-            * 你的假期也许不长 但胜在品质够优良&lt;br/&gt;
-            * 一起来吧！就让JoyTravel满足你对美好假期的全部渴望！&lt;br/&gt;
-            * 导游：5~20年以上带团经验，最优秀的资深导游；&lt;br/&gt;
-            * 司机：至少10年以上安全驾驶经验；&lt;br/&gt;
-            * 大巴：全程豪华欧洲旅游大巴接待，黄色巴士（限时）提供免费WI-FI服务；&lt;br/&gt;
-            * 行程：安排最合理，车程短，不走回头路；&lt;br/&gt;
-            * 餐饮：提供特价自助餐，特价$14.99/$10.99(小孩5-10岁），买一送一，价格含税、小费、饮料，即客人付$14.99，便可享受往返共2餐自助餐！&lt;br/&gt;
-            &lt;/p&gt;
-            &lt;h2&gt;第1天 原居地 - 盐湖城&lt;/h2&gt;
-            &lt;p&gt;
-            乘坐飞机前往犹他州首府盐湖城，并自行乘坐酒店免费班车去酒店入住（请与酒店前台人员确认乘坐班车地点）。&lt;br/&gt;
-            *请在出团前一天确认导游电话，盐湖城参团的客人到达后请自行乘坐Comfort Inn Salt Lake City Airport 免费专车前往酒店。&lt;br/&gt;
-            住宿： Comfort Inn Airport, Salt Lake City&lt;br/&gt;
-            交通：豪华空调巴士&lt;br/&gt;
-            &lt;/p&gt;
-            &lt;h2&gt;第2天 盐湖城-杰克逊小镇-大提顿国家公园-黄石国家公园&lt;/h2&gt;
-            &lt;p&gt;
-            早晨前往黄石公园，途经著名牛仔州——怀俄明州。一路上可见辽阔的草原、悠闲的牛、羊群。&lt;br/&gt;
-            在用过了充满西部风味的杰克逊午餐后，沿著蛇河河谷进入大提顿国家公园。高耸入云的山峰覆盖着千年的冰河，犹如进入人间仙境。&lt;br/&gt;
-            晚些时候进入黄石公园，沿途可发现成群的美洲水牛及麋鹿好像在等着游客为它们拍照，就像进入了野生动物园。&lt;br/&gt;
-            夜宿黄石公园。&lt;br/&gt;
-            住宿： 黄石小木屋或西黄石&lt;br/&gt;
-            交通：豪华空调巴士&lt;br/&gt;
-            &lt;/p&gt;
-            &lt;h2&gt;第3天 黄石国家公园-大提顿国家公园-杰克森-盐湖城&lt;/h2&gt;
-            &lt;p&gt;
-            上午游览黄石公园，浪漫的黄石湖、宏伟秀丽的黄石峡谷、万马奔腾的黄石瀑布、奇妙的老忠实喷泉、神秘的巨象温泉都分布在这古老的火山高原及全美最大的野生动物保护区里，黑熊、灰熊、高角鹿和多种稀有水鸟也以此为家。&lt;br/&gt;
-            夜宿盐湖城。&lt;br/&gt;
-            住宿： Ramada Limited, Salt Lake City 或同级&lt;br/&gt;
-            交通：豪华空调巴士&lt;br/&gt;
-            &lt;/p&gt;
-            &lt;h2&gt;第4天 盐湖城 - 家园&lt;/h2&gt;
-            &lt;p&gt;
-            上午参观摩门教大教堂、犹他州政府大厦。午后乘机返回家园，结束让您毕生难忘的黄石假期。&lt;br/&gt;
-            *请安排12:00PM后的航班离开盐湖城（SLC），不含送机，可乘坐酒店免费班车去机场。&lt;br/&gt;
-            交通：豪华空调巴士&lt;br/&gt;
-            &lt;/p&gt;
-        </description>
-        <profile>
-            images/routes/13995373918782531707262065254731.jpg
-        </profile>
-        <pics>
-            <pic></pic>
-        </pics>
-        <price>
-            $300
-        </price>
-        <reviews>
-            <point>90%</point>
-            <count>15</count>
-            <review>
-                <point>10</point>
-                <comment></comment>
-            </review>
-            <review>
-                <point>9</point>
-                <comment></comment>
-            </review>
-        </reviews>
-        <startLocation></startLocation>
-        <destination></destination>
-        <schedules>
-            <schedule>
-                <day>
-                    <index>1</index>
-                    <pic></pic>
-                    <title></title>
-                    <description></description>
-                    <features>
-
-                    </features>
-                </day>
-            </schedule>
-        </schedules>
-    </route>
 </routes>
