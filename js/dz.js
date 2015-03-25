@@ -17,14 +17,16 @@ $(document).ready(function() {
             jQuery(".tour-detail-page").find(".intro").find(".advantage").html(html_decode(jQuery(dz).find("advantage").html()));
             jQuery(".tour-detail-page").find(".intro").find(".sample").html(html_decode(jQuery(dz).find("sample").html()));
 
-            jQuery(dz).find("item").each(function() {
-                jQuery(".section").find(".image-box").append(buildListCell(jQuery(this)));
-            });
+            if(cat == "school") {
+                jQuery(dz).find("item").each(function () {
+                    jQuery(".section").find(".image-box").append(buildSchoolListCell(jQuery(this)));
+                });
+            }
         }
     });
 });
 
-function buildListCell(item){
+function buildSchoolListCell(item){
     var detail_page = "";
     if(cat == "school"){
         detail_page = "school_detail.html";

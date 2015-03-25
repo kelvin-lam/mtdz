@@ -18,10 +18,10 @@ $(document).ready(function() {
             jQuery(".travelo-box").find("dl.term-description").find("dd.district").html(jQuery(school).find("district").html());
             jQuery(".travelo-box").find("dl.term-description").find("dd.type").html(jQuery(school).find("type").html());
             jQuery(".travelo-box").find("dl.term-description").find("dd.starttime").html(jQuery(school).find("starttime").html());
-            jQuery(".travelo-box").find("dl.term-description").find("dd.tuition").html(jQuery(school).find("tuition").html());
-            jQuery(".travelo-box").find("dl.term-description").find("dd.dormitory").html(jQuery(school).find("dormitory").html());
-            jQuery(".travelo-box").find("dl.term-description").find("dd.dinner").html(jQuery(school).find("dinner").html());
-            jQuery(".travelo-box").find("dl.term-description").find("dd.other").html(jQuery(school).find("other").html());
+            //jQuery(".travelo-box").find("dl.term-description").find("dd.tuition").html(jQuery(school).find("tuition").html());
+            //jQuery(".travelo-box").find("dl.term-description").find("dd.dormitory").html(jQuery(school).find("dormitory").html());
+            //jQuery(".travelo-box").find("dl.term-description").find("dd.dinner").html(jQuery(school).find("dinner").html());
+            //jQuery(".travelo-box").find("dl.term-description").find("dd.other").html(jQuery(school).find("other").html());
 
             jQuery(".detailed-features").find(".price-section").find("h4.box-title").html(jQuery(school).find("englishName").html());
 
@@ -29,7 +29,7 @@ $(document).ready(function() {
             jQuery(".detailed-features").find(".price-section").find("span.price").append(jQuery(school).find("rank").html());
 
             jQuery(".detailed-features").find(".flights").find("p.requirement").html(html_decode(jQuery(school).find("requirement").html()));
-            jQuery(".detailed-features").find(".flights").find("p.apply").html(html_decode(jQuery(school).find("apply").html()));
+            //jQuery(".detailed-features").find(".flights").find("p.apply").html(html_decode(jQuery(school).find("apply").html()));
 
             tjq(".tour-google-map").gmap3({
                 map: {
