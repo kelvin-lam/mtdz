@@ -8,14 +8,14 @@ $(document).ready(function() {
         },
         success:function(xml) {
             var dz = jQuery(xml).find("dz[section="+cat+"]");
-            var name = jQuery(dz).find("name").html();
+            var name = jQuery(dz).find("name").first().text();
             window.document.title = name;
             jQuery(".page-title-container").find("h2.entry-title").html(name);
             jQuery(".page-title-container").find("li.active").html(name);
 
-            jQuery(".tour-detail-page").find(".intro").find(".service").html(html_decode(jQuery(dz).find("service").html()));
-            jQuery(".tour-detail-page").find(".intro").find(".advantage").html(html_decode(jQuery(dz).find("advantage").html()));
-            jQuery(".tour-detail-page").find(".intro").find(".sample").html(html_decode(jQuery(dz).find("sample").html()));
+            jQuery(".tour-detail-page").find(".intro").find(".service").html(html_decode(jQuery(dz).find("service").text()));
+            jQuery(".tour-detail-page").find(".intro").find(".advantage").html(html_decode(jQuery(dz).find("advantage").text()));
+            jQuery(".tour-detail-page").find(".intro").find(".sample").html(html_decode(jQuery(dz).find("sample").text()));
 
             if(cat == "school") {
                 jQuery(dz).find("item").each(function () {
@@ -37,7 +37,7 @@ function buildSchoolListCell(item){
         "       <div class='row'> " +
         "           <div class='col-sms-6 col-sm-6 col-md-4'> " +
         "               <figure class='' data-animation-type='' data-animation-delay='0'>    " +
-        "                   <img width='270' height='160' alt='' src='"+jQuery(item).find("profile").html().trim()+"'> " +
+        "                   <img width='270' height='160' alt='' src='"+jQuery(item).find("profile").text().trim()+"'> " +
         "                   <p style='text-align: center;'>"+
         "                       <br/><a href='"+detail_page+"?id="+jQuery(item).attr("id")+"' class='button btn-small'>查看详情</a> " +
         "                   </p>"   +
@@ -47,7 +47,7 @@ function buildSchoolListCell(item){
         "               <div class='detailed-features'> " +
         "                   <div class='row price-section clearfix'> " +
         "                       <div class='col-md-6'> " +
-        "                           <h4 class='box-title'>"+jQuery(item).find("name").html()+"</h4> " +
+        "                           <h4 class='box-title'>"+jQuery(item).find("name").text()+"</h4> " +
         //"                           <div data-placement='bottom' data-toggle='tooltip' class='five-stars-container'> " +
         //"                               <span style='width: 90%;' class='five-stars'></span> " +
         //"                           </div> " +
@@ -57,7 +57,7 @@ function buildSchoolListCell(item){
         //"                       </div> " +
         "                       <div class='col-md-11'> " +
         "                           <p>" +
-                                        buildDescription(html_decode(jQuery(item).find("description").html()))
+                                        buildDescription(html_decode(jQuery(item).find("description").text()))
         "                           </p> " +
         "                       </div> " +
         "                   </div> " +
